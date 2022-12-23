@@ -1,1 +1,1 @@
-console.log("Sir Hitesh is the great");
+console.log("Sir Hitesh is a great mentor");
