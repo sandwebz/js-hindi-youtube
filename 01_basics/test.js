@@ -1,1 +1,1 @@
-console.log("Sir Hitesh is a great mentor");
+console.log("Pakistan Zindabad");
